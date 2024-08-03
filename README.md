@@ -6,3 +6,6 @@ Regression, KNN, K Means Clustering, Decisions Trees + Random Forests, Support V
 
 #### Python Libraries: 
 Numpy, Pandas, Seaborn, Matplotlib, Plotly, SciKit-Learn, TensorFlow
+
+NOTE: These projects include materials provided by Jose Portilla's Python for Data Scince and Machine Learning course, by Pierian Training on Udemy.com. The coded solutions are my own work. 
+
